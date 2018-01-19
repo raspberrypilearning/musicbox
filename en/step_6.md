@@ -9,3 +9,5 @@ Position the music mechanism and servo in the base of the box. Ensure there is s
 The motor needs to be at the right height and position so the output shaft aligns with the axis of the music mechanism handle. Cut a rectangle in the foam to fit the servo. Secure the foam into the box using hot glue.
 
 Test that the sensor activates the motor. Adjust the duration and speed trim pots so that the music will play at a suitable pace. You can now enjoy your music box.
+
+![Complete box](images/banner.jpg)
