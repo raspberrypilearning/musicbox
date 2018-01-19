@@ -24,5 +24,12 @@
 * Solder Wire 
 * Danish oil or varnish
 
+--- collapse ---
+---
+title: A rough guide
+---
+Sandpaper comes in different grades or grit sizes, represented by the numbers on the back. For shaping wood, a low number such as 80 grit is good. For smoothing and finishing wood, a higher grade such as 180–240 is better.
+--- /collapse ---
+
 
 

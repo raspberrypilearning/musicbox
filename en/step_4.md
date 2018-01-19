@@ -1,3 +1,5 @@
+## Servo Surgery
+
 A servo consists of a motor, gearbox, position sensor, and a control circuit. For the music box, we just need the motor and gears. The control circuit can be removed and the gears modified to allow continuous rotation.
 
 A micro servo case is held together with small but long screws; remove these and any stickers that stop you opening the case. Open the case slowly as the parts may fall out.
