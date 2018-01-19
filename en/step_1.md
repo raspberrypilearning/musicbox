@@ -1,6 +1,6 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+systems, dedicated hardware can do the job just as well. This project uses a dual version of the classic 555 timer to control the system. A modified micro servo drives a mechanical music mechanism and the wooden box acts as a resonator to amplify the sound. A touch sensor module triggers the timer. To make the box we need six pieces of wood. I’m using 10 mm prepared pine from a local DIY store. It comes smooth all over, but you need to watch for warping when you buy. To save time, I bought pieces that were the size of the box I wanted to make. Start with the top and bottom, as those are the largest pieces. The length needs 
 
 ### What you will make
 
