@@ -17,3 +17,6 @@ title: Surform
 
 I like to use a tool called a Surform, which looks like a small cheese grater. This is good at removing wood a bit faster than sanding alone and can be used to quickly get the wood to the correct size. Take care with the ends as you might cause the wood to splinter or ‘break out’.
 --- /collapse ---
+
+
+![The box](images/box1.jpg)
