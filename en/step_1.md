@@ -1,25 +1,12 @@
 ## Introduction
 
-systems, dedicated hardware can do the job just as well. This project uses a dual version of the classic 555 timer to control the system. A modified micro servo drives a mechanical music mechanism and the wooden box acts as a resonator to amplify the sound. A touch sensor module triggers the timer. To make the box we need six pieces of wood. I’m using 10 mm prepared pine from a local DIY store. It comes smooth all over, but you need to watch for warping when you buy. To save time, I bought pieces that were the size of the box I wanted to make. Start with the top and bottom, as those are the largest pieces. The length needs 
+Coding is great, because it gives your projects flexibility to change. However, for simple well-defined systems, dedicated hardware can do the job just as well. This project uses a dual version of the classic 555 timer to control the system. A modified micro servo drives a mechanical music mechanism and the wooden box acts as a resonator to amplify the sound. A touch sensor module triggers the timer. To make the box we need six pieces of wood. I’m using 10 mm prepared pine from a local DIY store. It comes smooth all over, but you need to watch for warping when you buy. To save time, I bought pieces that were the size of the box I wanted to make. Start with the top and bottom, as those are the largest pieces. The length needs to be the length of the servo plus music box together, plus 2 × wood thickness, plus 2 × 3 mm for the lining. Best leave a little extra so the servo is not pressing against the 
+wall. Also allow a few mm for sanding. The width is the width of the servo plus space for the servo arm to rotate, plus 2 × wood thickness, plus 2 × 3 mm lining. The sides need to be the length minus 2 × thickness. The height of the sides is simply the internal depth of the box. Again, the servo needs space to rotate. Finally, the ends are sized to fit but should be length minus 2 × thickness and the width minus 2 × thickness. You need to ensure that the ends are at right angles to the sides.
+ of wood. I’m using 10 mm prepared pine from a local DIY store. It comes smooth all over, but you need to watch for warping when you buy. To save time, I bought pieces that were the size of the box I wanted to make. Start with the top and bottom, as those are the largest pieces. The length needs 
 
-### What you will make
+### About The Author
 
-Add something here to showcase here, for example:
+After an aerospace apprenticeship and electronics degree at Imperial College, Andy Clark took a job as a software engineer. For the last ten years he’s been making and repairing in a shed at the bottom of the garden. You can see more of his exploits at workshopshed.com
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at https://hsmag.cc
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
