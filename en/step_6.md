@@ -11,3 +11,5 @@ The motor needs to be at the right height and position so the output shaft align
 Test that the sensor activates the motor. Adjust the duration and speed trim pots so that the music will play at a suitable pace. You can now enjoy your music box.
 
 ![Complete box](images/banner.jpg)
+
+This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at [hsmag.cc](https://hsmag.cc){:target="_blank"}
