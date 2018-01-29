@@ -12,7 +12,7 @@ The sides need to be the length minus 2 × thickness. The height of the sides is
 
 ### About the author
 
-After an aerospace apprenticeship and electronics degree at Imperial College, Andy Clark took a job as a software engineer. For the last ten years he’s been making and repairing in a shed at the bottom of the garden. You can see more of his exploits at workshopshed.com
+After an aerospace apprenticeship and electronics degree at Imperial College, Andy Clark took a job as a software engineer. For the last ten years he’s been making and repairing in a shed at the bottom of the garden. You can see more of his exploits at [workshopshed.com](http://workshopshed.com/){:target="_blank"}.
 
-This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at [hsmag.cc](https://hsmag.cc){:target="_blank"}
+This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at [hsmag.cc](https://hsmag.cc){:target="_blank"}.
 
