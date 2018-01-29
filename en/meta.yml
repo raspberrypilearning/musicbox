@@ -1,6 +1,6 @@
-title: Create A Music Box
+title: Create a Music Box
 hero_image: images/banner.jpg
-description: musicbox description
+description: Build a touch-activated music box with no coding
 theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
