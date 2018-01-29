@@ -4,7 +4,8 @@
 
 
 * Wood plank 
-* 3mm ply Coach bolt or similar 
+* 3 mm ply
+* Coach bolt or similar 
 * 2 × washer 
 * Hand-cranked music box mechanism 
 * Micro servo Foam packing material 
@@ -17,11 +18,12 @@
 * 1 × 0.1μF capacitor 3 × 10nF capacitor 
 * 2 × 100μF polarised capacitor 
 * 1 × 100kΩ resistor 
-* 4 × 1kΩ resistor Battery box 
+* 4 × 1kΩ resistor battery box 
 * 3 × AA batteries 
 * Connectors 
 * Stripboard 
-* Solder Wire 
+* Solder
+* Wire 
 * Danish oil or varnish
 
 --- collapse ---
