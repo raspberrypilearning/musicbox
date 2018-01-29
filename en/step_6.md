@@ -12,4 +12,4 @@ Test that the sensor activates the motor. Adjust the duration and speed trim pot
 
 ![Complete box](images/banner.jpg)
 
-This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at [hsmag.cc](https://hsmag.cc){:target="_blank"}
+This tutorial first appeared in HackSpace magazine issue 2. You can read about hacking and making every month at [hsmag.cc](https://hsmag.cc){:target="_blank"}.
