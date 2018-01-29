@@ -1,4 +1,4 @@
-## Servo Surgery
+## Servo surgery
 
 A servo consists of a motor, gearbox, position sensor, and a control circuit. For the music box, we just need the motor and gears. The control circuit can be removed and the gears modified to allow continuous rotation.
 
