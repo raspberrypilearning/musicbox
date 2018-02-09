@@ -8,7 +8,7 @@ To make the box we need six pieces of wood. I’m using 10 mm prepared pine from
 
 Start with the top and bottom, as those are the largest pieces. The length needs to be the length of the servo plus music box together, plus 2 × wood thickness, plus 2 × 3 mm for the lining. Best leave a little extra so the servo is not pressing against the wall. Also allow a few mm for sanding. The width is the width of the servo plus space for the servo arm to rotate, plus 2 × wood thickness, plus 2 × 3 mm lining. 
 
-The sides need to be the length minus 2 × thickness. The height of the sides is simply the internal depth of the box. Again, the servo needs space to rotate. Finally, the ends are sized to fit but should be length minus 2 × thickness and the width minus 2 × thickness. You need to ensure that the ends are at right angles to the sides. of wood.
+The sides need to be the length minus 2 × thickness. The height of the sides is simply the internal depth of the box. Again, the servo needs space to rotate. Finally, the ends are sized to fit but should be length minus 2 × thickness and the width minus 2 × thickness. You need to ensure that the ends are at right angles to the sides of wood.
 
 ### About the author
 
