@@ -8,7 +8,7 @@ When the output of the first timer is high, it will enable the second timer via 
 
 As the motor takes more current than the 555 can provide, a power transistor is used to turn the current on and off to the motor.
 
-![Schematics](images/schematics.svg)
+![Schematics](images/schematics.png)
 
 --- collapse ---
 ---
