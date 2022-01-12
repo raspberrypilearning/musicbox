@@ -1,19 +1,22 @@
+---
 title: Create a Music Box
 hero_image: images/banner.jpg
 description: Build a touch-activated music box with no coding
-theme: blue # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
-duration: 2 # possible values: 1, 2 or 3
+theme: blue
+duration: 2
 listed: false
 ingredient: false
 copyedit: false
-curriculum: 
-interests: 
-technologies: 
+curriculum:
+interests:
+technologies:
 site_areas: HackSpace
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Turning a block into a box
-  - title: Servo surgery
-  - title: A pair of 555s
-  - title: Putting it all together
+- title: Introduction
+- title: What you will need
+  completion: engaged
+- title: Turning a block into a box
+- title: Servo surgery
+- title: A pair of 555s
+  completion: internal
+- title: Putting it all together
